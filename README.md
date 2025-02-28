@@ -21,3 +21,5 @@ Oggi → Tetris è uno dei giochi più venduti e amati di tutti i tempi, con num
 • Versione Python  →  Python 3.13.0.
 
 • Moduli  →  Pygame - Sys
+
+<img width="765" alt="Screenshot 2025-02-28 alle 20 24 44" src="https://github.com/user-attachments/assets/534c90d8-b1d5-42bf-8f9c-1f344820c364" />
