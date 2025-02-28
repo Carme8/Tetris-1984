@@ -16,7 +16,7 @@ next_rect = pygame.Rect(320, 215, 170, 180)
 
 # Creazione della finestra di gioco
 screen = pygame.display.set_mode((500, 620))
-pygame.display.set_caption("Python Tetris")
+pygame.display.set_caption("Tetris 1984")
 
 clock = pygame.time.Clock()  # Imposta il clock per limitare il frame rate
 game = Game()  # Crea un'istanza del gioco
